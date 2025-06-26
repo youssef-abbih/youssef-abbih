@@ -1,7 +1,3 @@
-<p align="center">
-السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
-</p>
-
 ## Youssef Abbih -Cloud/DevOps Engineer
 
 I'm Youssef 👋 a dedicated Backend Developer and DevOps Engineer based in Toulouse, France. With a strong background in automation, and monitoring solutions, I thrive on building reliable, scalable systems that reduce downtime and boost performance. Here you'll find my projects, contributions, and continuous learning in cloud engineering and DevOps practices.
