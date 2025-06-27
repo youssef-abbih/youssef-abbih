@@ -1,28 +1,41 @@
-## Youssef Abbih -Cloud/DevOps Engineer
+## **Youssef Abbih – Python Backend Developer | Automation & Monitoring Specialist**
 
-I'm Youssef 👋 a dedicated Backend Developer and DevOps Engineer based in Toulouse, France. With a strong background in automation, and monitoring solutions, I thrive on building reliable, scalable systems that reduce downtime and boost performance. Here you'll find my projects, contributions, and continuous learning in cloud engineering and DevOps practices.
+Hi, I’m Youssef 👋 – a Python Backend Developer and Automation Engineer based in Toulouse, France. With hands-on experience in monitoring systems, network automation, and CI/CD pipelines, I specialize in building tools that improve visibility, reduce downtime, and streamline operations. I take pride in owning projects end-to-end — from design and development to deployment and documentation — often in production-critical environments.
 
-### 🔧 Technologies and Tools
+### 🔧 **Tech Stack & Tools**
 
-* **Cloud**: AWS (EC2, RDS, Lambda, S3, ECR, ECS)
-* **Containerization**: Docker, Kubernetes
-* **CI/CD**: Jenkins, GitLab CI/CD, GitHub Actions
-* **Infrastructure as Code & Automation**: Ansible, Vagrant
-* **Monitoring**: Zabbix, Prometheus, Grafana, SNMP
-* **Scripting & Backend**: Python, Bash, Django
-* **Programming**: C, Go, Java, JavaScript
-* **Database**: MySQL, PostgreSQL
-* **Version Control**: Git, GitHub, GitLab
-* **Other Tools**: JIRA, Confluence
+**Backend & Scripting:** Python, Bash, Django  
+**Automation & IaC:** Ansible (AWX), Jenkins, Docker, GitLab CI/CD  
+**Monitoring & Observability:** Zabbix (SNMP, API, SSH, Scripts)
+**Cloud & Containerization:** Kubernetes (EKS), AWS (EC2, RDS, S3, Lambda), Docker  
+**Networking & APIs:** NetBox, IP Fabric, REST APIs  
+**Databases:** PostgreSQL, MySQL  
+**Development Practices:** Git, Agile/Scrum, CI/CD, DevOps  
+**Other Tools:** Jira, Confluence, VSCode
+
+### 🚀 **What I Work On**
+
+* Writing Python scripts to generate dynamic Zabbix monitoring templates and automate data collection
+* Automating network map generation using Python (Pandas, IP Fabric API, NetBox)
+* Developing web dashboards with Dash and Plotly for business KPI reporting
+* Building CLI tools and backend automation scripts in Python
+* Creating Django web applications, including API integration, CI/CD setup (Jenkins, Docker), and monitoring with Prometheus
+* Integrating Python applications into CI/CD pipelines for smooth delivery and deployment
+* Configuring SNMP monitoring in Zabbix (via native templates), and using REST/SSH with custom scripts when needed
+* Writing technical documentation and collaborating in Agile/Scrum environments
 
 ### 🏆 Certifications
 
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge)
-![Cerified Kubernetes Application Developer](https://img.shields.io/badge/CKAD%20Certified-Kubernetes%20Application%20Developer-326CE5?style=for-the-badge
-)
+![Cerified Kubernetes Application Developer](https://img.shields.io/badge/CKAD%20Certified-Kubernetes%20Application%20Developer-326CE5?style=for-the-badge)
 
+### 📌 **Currently Learning**
+
+* Go (Golang)
+* Advanced Django (web applications, APIs, CI/CD)
+
+Let’s connect, collaborate, and build resilient systems together. 🚀
 
 ### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssef-abbih&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssef-abbih&show_icons=true&theme=tokyonight)
 
