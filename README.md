@@ -1,40 +1,47 @@
-## **Youssef Abbih – Python Backend Developer | Automation & Monitoring Specialist**
+## **Youssef Abbih – Python Backend Developer & Tooling Enthusiast**
 
-Hi, I’m Youssef 👋 – a Python Backend Developer and Automation Engineer based in Toulouse, France. With hands-on experience in monitoring systems, network automation, and CI/CD pipelines, I specialize in building tools that improve visibility, reduce downtime, and streamline operations. I take pride in owning projects end-to-end — from design and development to deployment and documentation — often in production-critical environments.
+Hi, I’m Youssef 👋 – a Python Backend Developer and Automation Engineer with a passion for building developer tools and backend systems. I specialize in **automation, monitoring, and CI/CD pipelines**, and enjoy designing solutions that improve workflows, reduce downtime, and scale efficiently.  
+
+I thrive on taking projects from **concept to production**, whether it’s scripting, API development, or creating CLI tools for developers.
 
 ### 🔧 **Tech Stack & Tools**
 
-**Backend & Scripting:** Python, Bash, Django  
-**Automation & IaC:** Ansible (AWX), Jenkins, Docker, GitLab CI/CD  
-**Monitoring & Observability:** Zabbix (SNMP, API, SSH, Scripts)
-**Cloud & Containerization:** Kubernetes (EKS), AWS (EC2, RDS, S3, Lambda), Docker  
-**Networking & APIs:** NetBox, IP Fabric, REST APIs  
+**Languages:** Python, Go, C  
+**Frameworks:** Django, Dash, Plotly  
+**Automation & DevOps:** Ansible (AWX), Jenkins, Docker, GitLab CI/CD  
+**Monitoring & Observability:** Zabbix, Prometheus  
+**Cloud & Containerization:** Kubernetes (EKS), AWS (EC2, RDS, S3, Lambda)  
+**Networking & APIs:** REST APIs, NetBox, IP Fabric  
 **Databases:** PostgreSQL, MySQL  
-**Development Practices:** Git, Agile/Scrum, CI/CD, DevOps  
-**Other Tools:** Jira, Confluence, VSCode
+**Other Tools:** Git, Jira, Confluence, VSCode  
 
-### 🚀 **What I Work On**
+### ✨ **Highlights**
+✅ Engineered Zabbix monitoring templates that reduced network downtime by 20%, enabling real-time infrastructure alerting and faster issue resolution.
 
-* Writing Python scripts to generate dynamic Zabbix monitoring templates and automate data collection
-* Automating network map generation using Python (Pandas, IP Fabric API, NetBox)
-* Developing web dashboards with Dash and Plotly for business KPI reporting
-* Building CLI tools and backend automation scripts in Python
-* Creating Django web applications, including API integration, CI/CD setup (Jenkins, Docker), and monitoring with Prometheus
-* Integrating Python applications into CI/CD pipelines for smooth delivery and deployment
-* Configuring SNMP monitoring in Zabbix (via native templates), and using REST/SSH with custom scripts when needed
-* Writing technical documentation and collaborating in Agile/Scrum environments
+✅ Built a Python pipeline for interactive network maps (Pandas, IP Fabric API, NetBox), increasing end-to-end network visibility by 40% and saving hours of manual work.
+
+✅ Optimized CI/CD pipelines (Jenkins, Kubernetes) and automated deployments with Ansible/AWX, accelerating release cycles and ensuring smooth production rollouts.
+
+### 🚀 **What I’m Working On**
+
+🔨 **Yark** – *A Python CLI tool that generates and validates project directory structures from YAML files (in progress).*  
+
+🛠️ **DeployMe** – *A lightweight CLI-based CI/CD orchestrator with Python & Docker (planned).*  
+
+📄 **AutoDoc** – *A Python script-to-Markdown documentation generator (planned).* 
 
 ### 🏆 Certifications
 
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge)
 ![Cerified Kubernetes Application Developer](https://img.shields.io/badge/CKAD%20Certified-Kubernetes%20Application%20Developer-326CE5?style=for-the-badge)
 
-### 📌 **Currently Learning**
+### 🌱 **Currently Learning**
 
-* Go (Golang)
-* Advanced Django (web applications, APIs, CI/CD)
+* Advanced Django (APIs, CI/CD, testing)  
+* Go (building microservices & CLI tools)  
+* Cloud-native architectures 
 
-Let’s connect, collaborate, and build resilient systems together. 🚀
+📬 **Open to remote opportunities in Africa, Middle East, and Asia** – let’s collaborate and build something amazing! 
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssef-abbih&show_icons=true&theme=tokyonight)
